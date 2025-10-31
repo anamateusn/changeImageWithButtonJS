@@ -1,3 +1,6 @@
 This exercise was designed based on the Javascript Learning Module of MDN Website. 
-You can test that for yourself through the following Live Link:
- [Change Image/Image Description and Welcoming Message using Buttons](https://anamateusn.github.io/changeImageWithButtonJS).  
+Please bare in mind the focus was not design - the focus here was simply focusing on the Javascript approach and understand how I can select and manipulate elements.
+
+If you wish to check the project like, feel free to check the following link: [Change Content using Buttons](https://anamateusn.github.io/changeImageWithButtonJS).  
+
+ 
