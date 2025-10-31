@@ -47,3 +47,15 @@ btnWelcomeMessage.addEventListener('click', () => {
     setUserName();
 })
 // ---------------- END 2ND EXERCISE ----------------
+
+
+// ---------------- START 3RD EXERCISE ----------------
+
+const btnUpdateContent = document.querySelector('.btn-update-btn-content')
+
+btnUpdateContent.addEventListener('click', () => {
+    const content = prompt('Enter the message you want to see on the button.')
+    btnUpdateContent.textContent = `${content}`
+})
+
+// ---------------- END 3RD EXERCISE ----------------
